@@ -1,0 +1,12 @@
+{
+  "round": 5,
+  "new_claims": 0,
+  "metrics": {
+    "accepted_ratio": 0,
+    "contested_ratio": 0,
+    "withdrawn_ratio": 0,
+    "confidence_gap": 0,
+    "delta_from_last": 0,
+    "converged": false
+  }
+}
