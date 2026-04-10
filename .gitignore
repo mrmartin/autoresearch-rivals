@@ -21,3 +21,12 @@ dev/
 
 # Results file
 results.tsv
+
+# Corpus: raw source files and generated index (too large for git)
+corpus/raw/
+corpus/processed/
+corpus/index/
+
+# Run logs
+*.log
+rivalry_run.log
